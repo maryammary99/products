@@ -76,8 +76,8 @@ This Laravel project provides a solution for importing and synchronizing product
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+   git clone https://github.com/maryammary99/products.git
+   cd products
 Install dependencies:
 composer install
 
